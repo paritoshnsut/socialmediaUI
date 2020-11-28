@@ -1,0 +1,50 @@
+.navbar-brand{
+    color: #000;
+}
+.row1{
+   
+    background-color: #fff;
+background-image: url(yolo.jpg);
+}
+.testimonial-image{
+    width: 10%;
+     border-radius:100% ;
+     margin: 20px;
+}
+.article-image1{
+    background-image: url(abc.jpeg);   
+}
+.article-image2{
+    background-image: url(yolo.jpg);   
+}
+.article-image3{
+    background-image: url(yolo.jpg);  
+     
+}
+.button11 {
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .button22 {
+    background-color: #ddd;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+.table-11{
+    border: solid thin gray;
+}
